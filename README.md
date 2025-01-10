@@ -1,24 +1,12 @@
-# systex
+# 銀行內部人員與權限管理系統
 
-## Project setup
+## 環境安裝與運行
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
