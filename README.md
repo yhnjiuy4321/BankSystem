@@ -10,9 +10,10 @@
 | 後端      | Node.js、Express           | 提供伺服器邏輯與 API 開發。                                               |
 | 資料庫    | MongoDB                    | 儲存與管理網站資料，支援快速查詢與操作功能。                              |
 
+## 簡報(Canva)
+[點此查看](https://www.canva.com/design/DAGbIz2EQEk/IOTbzB4W_9SxHzGt9qGJcw/edit?utm_content=DAGbIz2EQEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
-
-
 ## 環境安裝與運行
 ```
 npm install
